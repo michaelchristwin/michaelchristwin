@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michael Christwin</h1>
-<h3 align="center">I am a frontend developer at @ImpactScribe, a web3 startup building protocols for minting impact bound certificates.</h3>
+<h1 align="center">Hi there 👋, I'm `Michael Christwin`</h1>
+<h3 align="center">I am a frontend developer at [@ImpactScribe](https://github.com/ImpactScribe), a web3 startup building protocols for minting impact bound certificates.</h3>
 
 - 🔭 I’m currently working on [a marketplace for impact bound certificates](https://github.com/ImpactScribe/Impact-Explorer)
 
