@@ -3,7 +3,7 @@ I am a frontend engineer specialized in crafting visually appealing, functional 
 
 ## Occupations
 - Lead frontend developer at [@ImpactScribe](https://github.com/ImpactScribe)
-- Tech consultant at [Switch Electric Ltd]()
+- Tech consultant at [Switch Electric Ltd](https://github.com/WhyNotSwitch)
 
 ## Interests
 - Open Source
