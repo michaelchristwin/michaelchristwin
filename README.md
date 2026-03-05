@@ -7,7 +7,6 @@ I am a frontend engineer specialized in crafting visually appealing, functional 
 
 ## Interests
 - Open Source
-- Web 3.0
 
 
 
