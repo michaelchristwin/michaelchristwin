@@ -1,12 +1,14 @@
 # 👋 Hi there, I'm `Michael Christwin`
-I am a frontend engineer specialized in crafting visually appealing, functional and dynamic web application using varoius technologies and skillsets.
+I would consider myself a webmaster. I love tinkering with dumb gadgets, I get to be their master. I'm dreaming of running my own homelab.     
 
-## Occupations
+## Work
 - Lead frontend developer at [@ImpactScribe](https://github.com/ImpactScribe)
-- Tech consultant at [Switch Electric Ltd](https://github.com/WhyNotSwitch)
+- Webmaster at [Switch Electric Ltd](https://github.com/WhyNotSwitch)
 
 ## Interests
-- Open Source
+- Homelabbing
+- Linux
+- Blazingly fast web applications
 
 
 
