@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm `Michael Christwin`
-I'm a software engineer. I'm dreaming of running my own homelab.     
+Software Engineer | TypeScript, React, Go     
 
 ## Work
-- Lead frontend developer at [@ImpactScribe](https://github.com/ImpactScribe)
 - Frontend Developer at [Switch Electric Ltd](https://github.com/WhyNotSwitch)
+- Lead frontend developer at [@ImpactScribe](https://github.com/ImpactScribe)
 
 ## Interests
-- Homelabbing
-- Linux
 - Blazingly fast web applications
+- Linux
+- Homelabbing
 
 
 
