@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm `Michael Christwin`
-Software Engineer | TypeScript, React, Go     
+Software Engineer | TypeScript, React, Go.     
 
 I build web applications and the systems behind them. Currently interested in backend engineering, Linux, networking and homelabbing.
 
